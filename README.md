@@ -1,6 +1,3 @@
-### Hi there 👋
+Fullstack разработчик (Vue / Laravel). В данный момент заинтересован в работе frontend разработчиком, желательно на Vue или React, но открыт к работе и с другими технологиями.
 
-A list of my projects: [try-again-later.github.io](https://try-again-later.github.io)
-
-- 🌱 I’m currently learning backend with PHP and Laravel and frontend with Vue.
-- 🔭 I’m currently working on the [videos convert app](https://github.com/try-again-later/Media-Convert-App) with PHP and Vue.
+Сайт с проектами: [try-again-later.github.io](https://try-again-later.github.io/)
